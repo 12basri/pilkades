@@ -1,0 +1,20 @@
+app/Views/
+├── auth/
+│   └── login.php
+├── admin/
+│   ├── dashboard.php
+│   ├── pemilih.php
+│   └── logistik.php
+├── kordes/               <-- Sub-folder khusus Kordes / Kor-RT
+│   ├── dashboard.php     <-- File View Dashboard Kordes
+│   ├── pemilih.php
+│   └── logistik.php
+├── relawan/
+│   ├── dashboard.php
+│   └── pemilih.php
+├── saksi/
+│   ├── dashboard.php
+│   └── hasil_tps.php
+└── layout/
+    ├── header.php
+    └── footer.php
